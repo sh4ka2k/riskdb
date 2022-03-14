@@ -1,0 +1,20 @@
+site_name: SecurityTrails Community: Risk Database
+repo_url: https://github.com/SecurityTrails-Community/riskdb
+theme:
+  name: material
+  palette:
+    primary: light blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+markdown_extensions:
+  - meta
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - attr_list
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
