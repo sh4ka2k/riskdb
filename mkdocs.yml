@@ -4,6 +4,8 @@ repo_name: SecurityTrails-Community/riskdb
 edit_uri: edit/main/docs/
 theme:
   name: material
+  icon:
+    logo: material/shield-bug
   palette:
     primary: light blue
   features:
