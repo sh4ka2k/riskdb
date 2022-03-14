@@ -1,5 +1,6 @@
 site_name: "SecurityTrails Community: Risk Database"
 repo_url: https://github.com/SecurityTrails-Community/riskdb
+repo_name: SecurityTrails-Community/riskdb
 theme:
   name: material
   palette:
