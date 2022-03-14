@@ -15,8 +15,8 @@ The danger of this practice resides when web debug remains enabled in production
 
 ## Further Reading
 
-- https://www.php.net/manual/en/function.error-reporting.php 
-- https://docs.microsoft.com/en-us/troubleshoot/developer/webapps/aspnet/development/disable-debugging-application 
-- https://wordpress.org/support/article/debugging-in-wordpress/ 
+- <https://www.php.net/manual/en/function.error-reporting.php> 
+- <https://docs.microsoft.com/en-us/troubleshoot/developer/webapps/aspnet/development/disable-debugging-application>
+- <https://wordpress.org/support/article/debugging-in-wordpress/>
 
 ![img](../img/webdebugenabled.jpg)
