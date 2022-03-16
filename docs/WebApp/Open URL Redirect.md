@@ -1,4 +1,4 @@
-﻿# Open URL Redirect
+# Open URL Redirect
 
 
 ## Summary
@@ -16,8 +16,8 @@ When a web application accepts untrusted input, it can cause the app to redirect
 - [x] Parameters that are used for redirecting should be restricted only to paths within the application
 
 ## Further Reading
-* https://cwe.mitre.org/data/definitions/601.html
-* https://portswigger.net/kb/issues/00500100_open-redirection-reflected 
-* https://blog.intigriti.com/hackademy/open-redirect/ 
+* <https://cwe.mitre.org/data/definitions/601.html>
+* <https://portswigger.net/kb/issues/00500100_open-redirection-reflected> 
+* <https://blog.intigriti.com/hackademy/open-redirect/>
 
 ![img](../img/openurlredirect.png)

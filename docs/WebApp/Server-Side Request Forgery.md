@@ -19,9 +19,9 @@ Web applications can have a functionality to import data from, publish data or r
 
 ## Further Reading
 
-* https://www.invicti.com/blog/web-security/server-side-request-forgery-vulnerability-ssrf/
-* https://www.hacksplaining.com/exercises/ssrf#
-* https://cwe.mitre.org/data/definitions/918.html
+* <https://www.invicti.com/blog/web-security/server-side-request-forgery-vulnerability-ssrf/>
+* <https://www.hacksplaining.com/exercises/ssrf#>
+* <https://cwe.mitre.org/data/definitions/918.html>
 
 
 ![img](../img/ssrf.png)

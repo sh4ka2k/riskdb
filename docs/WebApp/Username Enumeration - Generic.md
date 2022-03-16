@@ -1,4 +1,4 @@
-﻿# Username enumeration (generic)
+# Username enumeration (generic)
 
 
 ## Summary
@@ -13,8 +13,9 @@ Username enumeration is a popular vulnerability that affects all types of applic
 - [x] Rate limit login attempts per IP and username.
 ## Further Reading
 
-* https://www.rapid7.com/blog/post/2017/06/15/about-user-enumeration/ 
-* https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/03-Identity_Management_Testing/04-Testing_for_Account_Enumeration_and_Guessable_User_Account 
+* <https://www.rapid7.com/blog/post/2017/06/15/about-user-enumeration/> 
+* <https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/03-Identity_Management_Testing/04-Testing_for_Account_Enumeration_and_Guessable_User_Account> 
 
 
 ![img](../img/genericuserenumeration.png)
+
