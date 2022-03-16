@@ -1,4 +1,4 @@
-﻿#Server-Side Request Forgery
+# Server-Side Request Forgery
 
 ## Summary
 
