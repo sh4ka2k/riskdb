@@ -1,0 +1,15 @@
+﻿# Unauthenticated Cache Purge
+
+## Summary
+
+Cache PURGE is a popular mechanism used by many software stacks to clear the app cache that resides on their backend servers (Redis, Nginx, Varnish, Cloudflare, etc). 
+* Most services offering the PURGE functionality let users clear their own cache on specific paths or just purge all the cached content.
+* Some PURGE mechanisms are not properly protected, and malicious actors can request a PURGE request for any resource, creating a cache invalidation.
+* This often leads to increased bandwidth usage and degraded performance on the web app.
+## Solution
+
+- [x] Disallow cache purge for unauthenticated users.
+## Further Reading
+* <https://secapps.com/vulndb/unauthenticated-cache-purge> 
+* <https://web.cystack.net/vulnerability/cystack.remote.varnish_unauthenticated_cache_purge>
+* <https://hackerone.com/reports/154278>

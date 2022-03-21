@@ -1,8 +1,6 @@
 # Username enumeration (generic)
 
-
 ## Summary
-
 
 Username enumeration is a popular vulnerability that affects all types of applications. It happens when a malicious actor is able to build up a list of valid usernames from the application or system. 
 
